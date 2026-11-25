@@ -2,7 +2,7 @@
 
 Served at https://tillwenke.github.io/open-letter/
 
-- `index.html` – page with the statement and a download button
+- `index.html` – the open letter page (style modelled on ai-security-letter.org)
 - `statement.pdf` – downloadable PDF
 - `pdf-source.html` – source for the PDF. Regenerate with:
 
